@@ -1,1 +1,2 @@
 # pgpool2
+test
